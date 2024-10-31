@@ -1,0 +1,1 @@
+pm2 start --interpreter ts-node gamble.ts
