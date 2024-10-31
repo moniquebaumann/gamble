@@ -1,0 +1,9 @@
+{
+    "extends": "@tsconfig/node16/tsconfig.json",
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2015",
+      "sourceMap": true,
+      "strict": true
+    }
+  }
